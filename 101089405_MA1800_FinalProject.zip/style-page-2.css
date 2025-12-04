@@ -1,0 +1,44 @@
+body {
+    height: 2000px;
+    font-family: monospace;
+    font-size: 14px;
+    background: linear-gradient(0deg, #000000 0%, #a4a2a2 100%);
+}
+
+.hide {
+    color: transparent;
+    border-bottom: 5px dottedd blue;
+}
+
+.hide:hover {
+    color: #f00;
+    cursor: pointer;
+}
+
+.hide02 {
+    color: transparent;
+    border-bottom: 5px dottedd blue;
+}
+
+.hide02:hover {
+    color: #f00;
+    cursor: pointer;
+}
+
+h1 {
+    text-align: center;
+}
+
+pre {
+    text-align: center;
+}
+
+a {
+    text-decoration: none;
+}
+
+.none {
+
+    text-decoration: none;
+    text-underline-offset: transparent;
+}
